@@ -1,0 +1,10 @@
+{
+    "name": "music/autocargavii",
+    "description": "Proyecto con PSR-4 Autoload",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
